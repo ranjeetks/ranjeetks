@@ -11,6 +11,3 @@
 I'm actively learning to:
 - Python & Django REST Framework
 - React + TypeScript
-
-## 📬 Connect
-- 📧 [Email Me](mailto:rksingh.gzp@gmail.com)
